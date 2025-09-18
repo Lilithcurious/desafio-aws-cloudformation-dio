@@ -1,4 +1,4 @@
-# desafio-aws-cloudformation-dio
+
 # Desafio AWS CloudFormation - DIO
 
 ## Introdução
